@@ -21,8 +21,8 @@ var isStrictlyPalindromic = function(n) {
         // Check if s is a palindrome
         if (!isPalindrome(s)) {
           return false;
+        }
     }
-  }
 
-  return true;
+    return true;
 };
